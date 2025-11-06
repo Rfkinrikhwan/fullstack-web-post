@@ -39,7 +39,7 @@
 
 ## 📁 Project Structure
 ```
-assessment-post-management/
+fullstack-web-post/
 ├── laravel-backend/          # Laravel API Backend
 │   ├── app/
 │   │   ├── Http/
@@ -82,7 +82,7 @@ assessment-post-management/
 #### 1. Clone Repository
 ```bash
 git clone <your-repo-url>
-cd assessment-post-management
+cd fullstack-web-post
 ```
 
 #### 2. Backend Setup
